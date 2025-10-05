@@ -47,14 +47,6 @@ I'm a Software Developer passionate about [your interests]. Currently focused on
 ![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![Bedrock](https://img.shields.io/badge/-Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rli128&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rli128&layout=compact&theme=radical)
-
-
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rickyli-ucsd)
