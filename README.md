@@ -1,7 +1,7 @@
 # Hi there, I'm Ricky 👋
 
 ## About Me
-I'm a Software Developer passionate about [your interests]. Currently focused on building on and expanding my skills and exploring new subjects
+I'm a Software Developer passionate about learning. Currently focused on building on and expanding my skills and exploring new subjects
 
 - 🔭 I'm currently working on an **Email Organizer**
 - 🌱 I'm learning how to integrate **NLP w/ spaCy models** into my projects
